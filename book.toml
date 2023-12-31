@@ -1,0 +1,10 @@
+[book]
+authors = ["AJ-Lebsch"]
+language = "en"
+multilingual = false
+src = "src"
+title = "temptered story"
+
+[output.html]
+
+[output.pdf]
